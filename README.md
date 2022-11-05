@@ -227,18 +227,4 @@
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shaheen121&show_icons=true&locale=en"
-    alt="shaheen121"
-  />
-</p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shaheen121&"
-    alt="shaheen121"
-  />
-</p>
