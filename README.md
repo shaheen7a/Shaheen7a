@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shaheen<br>A passionate Web, and Android Developer.
+Hi 👋, I'm Shaheen<br>A passionate Full-Stack Web, Mobile Developer.
 💬 Ask me about anything :)
 
 
