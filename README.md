@@ -1,11 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Shaheen<br>A Software Engineer.
 💬 Ask me about anything :)
-
-# 📊 GitLab Account:
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Shaheen7a)
-
-## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Shaheen7#8299) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaheen72001/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaheen72000/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheen2001/) 
 
 # 💻 Tech Stack:
@@ -13,7 +8,7 @@ Hi 👋, I'm Shaheen<br>A Software Engineer.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shaheen121&icon=2&color=8)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aousshahee7) 
